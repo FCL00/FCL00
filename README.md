@@ -14,7 +14,6 @@
 
 - 📫 How to reach me **https://fernando.vercel.app**
   
-- 
 
 #
 
