@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FCL00&label=Profile%20views&color=0e75b6&style=flat" alt="FCL00" /> </p>
 
-- 🌱 I’m currently learning **Nextjs**
+- 🌱 I’m currently learning **Nextjs, Nuxtjs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/FCL00](https://github.com/FCL00)
 
