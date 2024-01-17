@@ -123,9 +123,6 @@
 <a href="https://github.com/FCL00/Daily-UI-Challenge">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FCL00&repo=Daily-UI-Challenge&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/FCL00/tachiyomi-website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FCL00&repo=tachiyomi-website&theme=tokyonight&hide_border=true" />
-</a>
 
 
 
