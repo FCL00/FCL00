@@ -113,24 +113,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
 
-## Most Recent Works
-<a href="https://github.com/FCL00/shoppie">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FCL00&repo=shoppie&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/FCL00/react-portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FCL00&repo=react-portfolio&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/FCL00/Daily-UI-Challenge">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FCL00&repo=Daily-UI-Challenge&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/FCL00/REACT-ADMIN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FCL00&repo=REACT-ADMIN&theme=tokyonight&hide_border=true" />
-</a>
-
-
-
 # Github Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FCL00&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook)
 <br/>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=FCL00&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
 
+## Most Recent Works
+<a href="https://github.com/FCL00/shoppie">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FCL00&repo=shoppie&theme=tokyonight&hide_border=true" />
+</a>
+  <a href="https://github.com/FCL00/Daily-UI-Challenge">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FCL00&repo=Daily-UI-Challenge&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/FCL00/react-portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FCL00&repo=react-portfolio&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/FCL00/REACT-ADMIN">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FCL00&repo=REACT-ADMIN&theme=tokyonight&hide_border=true" />
+</a>
