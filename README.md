@@ -1,8 +1,8 @@
 ![](https://media.licdn.com/dms/image/D4E16AQF-lddmmRBgrQ/profile-displaybackgroundimage-shrink_350_1400/0/1696205853555?e=1709769600&v=beta&t=fV8cJTyEyt0yuqWrf1nrNboB4KnEWPgi4uo69Z6lMow)
 
 
-<h1 align="left">Hi 👋, I'm Fernando Lagahit</h1>
-<h3 align="left">A Passionate FullStack WebDeveloper</h3>
+<h1 align="center">Hi 👋, I'm Fernando Lagahit</h1>
+<h3 align="center">A Passionate FullStack WebDeveloper</h3>
 
 
 
