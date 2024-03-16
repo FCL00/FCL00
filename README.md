@@ -1,4 +1,4 @@
-![](https://media.licdn.com/dms/image/D4E16AQF-lddmmRBgrQ/profile-displaybackgroundimage-shrink_350_1400/0/1696205853555?e=1709769600&v=beta&t=fV8cJTyEyt0yuqWrf1nrNboB4KnEWPgi4uo69Z6lMow)
+![](https://media.licdn.com/dms/image/D4E16AQF-lddmmRBgrQ/profile-displaybackgroundimage-shrink_350_1400/0/1696205853555?e=1715817600&v=beta&t=eUM0i6xtISxfsMs7cpKL-eEqXt9Re_Hd5T2OptBRKiQ)
 
 
 <h1 align="center">Hi 👋, I'm Fernando Lagahit</h1>
