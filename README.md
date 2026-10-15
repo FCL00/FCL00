@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Fernando Lagahit</h1>
-<h3 align="center">A Passionate FullStack WebDeveloper</h3>
+<h3 align="center">FullStack Web Developer</h3>
 
 
 
