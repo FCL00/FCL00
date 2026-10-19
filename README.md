@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/FCL00](https://github.com/FCL00)
 
-- 💬 Ask me about **Laravel, Vue.js, ReactJS**
+- 💬 Ask me about **Laravel, Nextjs, Nuxtjs Vue.js, ReactJS**
 
 - 📫 How to reach me **https://fernando.vercel.app**
   
