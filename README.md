@@ -130,12 +130,12 @@
 <a href="https://github.com/FCL00/CallType">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FCL00&repo=CallType&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/FCL00/REACT-ADMIN">
+<a href="https://github.com/FCL00/Makamura">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FCL00&repo=Makamura&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/FCL00/react-portfolio">
+<a href="https://github.com/FCL00/next-hunt">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FCL00&repo=next-hunt&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/FCL00/Daily-UI-Challenge">
+<a href="https://github.com/FCL00/NextCRM">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FCL00&repo=NextCRM&theme=tokyonight&hide_border=true" />
 </a>
